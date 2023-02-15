@@ -1,0 +1,11 @@
+C:\Users\prana\OneDrive\Desktop\soft_tech\Classic_Snake_Game\bin\Debug\Classic_Snake_Game.exe.config
+C:\Users\prana\OneDrive\Desktop\soft_tech\Classic_Snake_Game\bin\Debug\Classic_Snake_Game.exe
+C:\Users\prana\OneDrive\Desktop\soft_tech\Classic_Snake_Game\bin\Debug\Classic_Snake_Game.pdb
+C:\Users\prana\OneDrive\Desktop\soft_tech\Classic_Snake_Game\obj\Debug\Classic_Snake_Game.csproj.AssemblyReference.cache
+C:\Users\prana\OneDrive\Desktop\soft_tech\Classic_Snake_Game\obj\Debug\Classic_Snake_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\prana\OneDrive\Desktop\soft_tech\Classic_Snake_Game\obj\Debug\Classic_Snake_Game.Form1.resources
+C:\Users\prana\OneDrive\Desktop\soft_tech\Classic_Snake_Game\obj\Debug\Classic_Snake_Game.Properties.Resources.resources
+C:\Users\prana\OneDrive\Desktop\soft_tech\Classic_Snake_Game\obj\Debug\Classic_Snake_Game.csproj.GenerateResource.cache
+C:\Users\prana\OneDrive\Desktop\soft_tech\Classic_Snake_Game\obj\Debug\Classic_Snake_Game.csproj.CoreCompileInputs.cache
+C:\Users\prana\OneDrive\Desktop\soft_tech\Classic_Snake_Game\obj\Debug\Classic_Snake_Game.exe
+C:\Users\prana\OneDrive\Desktop\soft_tech\Classic_Snake_Game\obj\Debug\Classic_Snake_Game.pdb
